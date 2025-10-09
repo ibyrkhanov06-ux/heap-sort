@@ -47,9 +47,11 @@ The BenchmarkRunner runs Heap Sort for different input sizes (100, 1,000, 10,000
 and records time and operation counts into a CSV file.
 Complexity Analysis
 Heap Sort is an in-place comparison-based sorting algorithm that builds a heap and repeatedly extracts the maximum element.
-<img width="974" height="604" alt="image" src="https://github.com/user-attachments/assets/6881ab6a-da57-47d8-8b44-704fd4345007" />
 
-``` 
+
+```
+<img width="1580" height="980" alt="output" src="https://github.com/user-attachments/assets/5fadd527-858d-463d-a249-8269f6471cc7" />
+
 Report from Zhahangir:
 I’ve reviewed the Heap Sort assignment — great job overall.
 The implementation is clean and functional, and the project is well-structured with Maven and proper JUnit 5 testing setup.
